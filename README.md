@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saket Sumant
-- 👀 I’m interested in Web Development,Data Science.
+- 👀 I’m interested in Web Development,Data Science and Machine Learning.
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web Development and Machine Learning projects
 - 📫 You can reach me at my mail- skst1901@gmail.com
